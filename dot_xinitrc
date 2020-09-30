@@ -1,0 +1,5 @@
+kitty &
+xrandr --output DP1 --auto --primary
+xrandr --output eDP1 --auto --right-of DP1
+exec bspwm
+[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources

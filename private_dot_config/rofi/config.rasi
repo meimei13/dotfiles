@@ -1,0 +1,8 @@
+/* Dark theme */
+configuration {
+modi: "window,drun,ssh,combi";
+theme: "~/.cache/wal/colors-rofi-dark.rasi";
+font: "CozetteVector 9";
+terminal: "kitty";
+sidebar-mode: true;
+}

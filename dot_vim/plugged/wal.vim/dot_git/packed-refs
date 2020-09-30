@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled sorted 
+10f228ce1e7947f62be412f916229131b7710239 refs/remotes/origin/master
+d4d7ce5f394854a3fb70960125d1ae70a2358bb6 refs/remotes/origin/revert-21-fix-bg-issue
