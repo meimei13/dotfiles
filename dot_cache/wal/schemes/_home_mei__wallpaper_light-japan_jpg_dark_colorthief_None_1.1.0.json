@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/.wallpaper/light-japan.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b0a",
+        "foreground": "#b0b0ae",
+        "cursor": "#b0b0ae"
+    },
+    "colors": {
+        "color0": "#0b0b0a",
+        "color1": "#536c74",
+        "color2": "#686e53",
+        "color3": "#867e70",
+        "color4": "#8a9ea5",
+        "color5": "#9d9e87",
+        "color6": "#be9a4b",
+        "color7": "#b0b0ae",
+        "color8": "#62615d",
+        "color9": "#536c74",
+        "color10": "#686e53",
+        "color11": "#867e70",
+        "color12": "#8a9ea5",
+        "color13": "#9d9e87",
+        "color14": "#be9a4b",
+        "color15": "#b0b0ae"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/Pictures/Wallpapers/aerial-fall.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f9f4ec",
+        "foreground": "#191612",
+        "cursor": "#191612"
+    },
+    "colors": {
+        "color0": "#f9f4ec",
+        "color1": "#53472D",
+        "color2": "#6F4D2E",
+        "color3": "#6D5425",
+        "color4": "#534742",
+        "color5": "#995D2F",
+        "color6": "#A75333",
+        "color7": "#191612",
+        "color8": "#82704e",
+        "color9": "#53472D",
+        "color10": "#6F4D2E",
+        "color11": "#6D5425",
+        "color12": "#534742",
+        "color13": "#995D2F",
+        "color14": "#A75333",
+        "color15": "#191612"
+    }
+}

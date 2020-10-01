@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/.wallpaper/pink-cloud.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#7a2d23",
+        "foreground": "#e6e7ea",
+        "cursor": "#e6e7ea"
+    },
+    "colors": {
+        "color0": "#7a2d23",
+        "color1": "#ffb4b3",
+        "color2": "#ff9bba",
+        "color3": "#ffadbe",
+        "color4": "#b2d2ff",
+        "color5": "#ffbcbf",
+        "color6": "#bdd5ff",
+        "color7": "#e6e7ea",
+        "color8": "#a1a1a3",
+        "color9": "#ffb4b3",
+        "color10": "#ff9bba",
+        "color11": "#ffadbe",
+        "color12": "#b2d2ff",
+        "color13": "#ffbcbf",
+        "color14": "#bdd5ff",
+        "color15": "#e6e7ea"
+    }
+}

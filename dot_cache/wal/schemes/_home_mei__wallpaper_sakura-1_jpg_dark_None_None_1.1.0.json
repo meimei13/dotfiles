@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/.wallpaper/sakura-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#381310",
+        "foreground": "#f6e5e9",
+        "cursor": "#f6e5e9"
+    },
+    "colors": {
+        "color0": "#381310",
+        "color1": "#FEB3B2",
+        "color2": "#FEC5B6",
+        "color3": "#E2AFC1",
+        "color4": "#FFBDC3",
+        "color5": "#FFCED3",
+        "color6": "#FFE1DB",
+        "color7": "#f6e5e9",
+        "color8": "#aca0a3",
+        "color9": "#FEB3B2",
+        "color10": "#FEC5B6",
+        "color11": "#E2AFC1",
+        "color12": "#FFBDC3",
+        "color13": "#FFCED3",
+        "color14": "#FFE1DB",
+        "color15": "#f6e5e9"
+    }
+}

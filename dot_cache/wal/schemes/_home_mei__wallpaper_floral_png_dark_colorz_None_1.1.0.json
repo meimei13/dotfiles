@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/.wallpaper/floral.png",
+    "alpha": "100",
+    "special": {
+        "background": "#231c1c",
+        "foreground": "#c8c6c6",
+        "cursor": "#c8c6c6"
+    },
+    "colors": {
+        "color0": "#231c1c",
+        "color1": "#b09190",
+        "color2": "#b67371",
+        "color3": "#c5abaa",
+        "color4": "#8c9baa",
+        "color5": "#a5a2a8",
+        "color6": "#c3bfc2",
+        "color7": "#c8c6c6",
+        "color8": "#5a5454",
+        "color9": "#b09190",
+        "color10": "#b67371",
+        "color11": "#c5abaa",
+        "color12": "#8c9baa",
+        "color13": "#a5a2a8",
+        "color14": "#c3bfc2",
+        "color15": "#c8c6c6"
+    }
+}

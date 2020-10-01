@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/.wallpaper/pink-mountains.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fcfafa",
+        "foreground": "#3f3e3e",
+        "cursor": "#3f3e3e"
+    },
+    "colors": {
+        "color0": "#fcfafa",
+        "color1": "#c5aba8",
+        "color2": "#c59690",
+        "color3": "#c68274",
+        "color4": "#c6bbb7",
+        "color5": "#a49ba8",
+        "color6": "#ac8486",
+        "color7": "#3f3e3e",
+        "color8": "#bdbbbb",
+        "color9": "#c5aba8",
+        "color10": "#c59690",
+        "color11": "#c68274",
+        "color12": "#c6bbb7",
+        "color13": "#a49ba8",
+        "color14": "#ac8486",
+        "color15": "#3f3e3e"
+    }
+}

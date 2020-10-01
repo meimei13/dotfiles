@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/Pictures/Wallpapers/jellyfish.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161618",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161618",
+        "color1": "#2a2a4a",
+        "color2": "#6b1636",
+        "color3": "#70274c",
+        "color4": "#2e5b62",
+        "color5": "#c12a51",
+        "color6": "#6c5b67",
+        "color7": "#c4c4c5",
+        "color8": "#505051",
+        "color9": "#2a2a4a",
+        "color10": "#6b1636",
+        "color11": "#70274c",
+        "color12": "#2e5b62",
+        "color13": "#c12a51",
+        "color14": "#6c5b67",
+        "color15": "#c4c4c5"
+    }
+}
